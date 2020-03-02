@@ -38,7 +38,7 @@ and [Umair Ishaq][Umair Ishaq].*
 [Lincoln Sward]:              @
 [Matthias Loibl]:             @
 [Michael Hausenblas]:         @
-[Ricardo Aravena]:            @
+[Ricardo Aravena]:            https://github.com/raravena80
 [Richard Hartmann]:           @
 [Sergey Kanzhelev]:           @
 [Steve Flanders]:             @
